@@ -1,0 +1,1 @@
+web: gunicorn shoppinglyx_ecommerce.wsgi --log-file -
